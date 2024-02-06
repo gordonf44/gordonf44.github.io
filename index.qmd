@@ -2,17 +2,17 @@
 title: "GORDON FAGAN" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
-  image: img/profile.png
+  image: img/Gski.jpg
   image-width: 16em
   image-shape: round # rectangle  round  rounded
   
   links:
     - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      text: Linkedin - Gordon Fagan
+      href: https://www.linkedin.com/in/gordon-fagan-755461296/
     - icon: instagram
-      text: Instagram
-      href: https://instagram.com
+      text: instagram - Gordon Fagan
+      href: https://www.instagram.com/fagan.gordon_44/
     - icon: github
       text: GitHub
       href: https://github.com
@@ -26,16 +26,16 @@ about:
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+Gordon Fagan majors in Business at SUNY Geneseo. When not studying, Gordon enjoys spending time outdoors and working out.
 
 ## Education
 
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
+B.S. in Business Administration | Jan 2024 - May 2027 <br>
+Minor in Data Analytics
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+Lashomb Lawn and Lawnscape | Seasonal Laborer | June 2021 - Aug 2023
 
 
