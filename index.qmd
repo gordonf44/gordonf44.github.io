@@ -18,7 +18,7 @@ about:
       href: https://github.com
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://GITHUB_USERNAME.github.io/resume-example.pdf
+      href: file:///Users/gordonfagan/Downloads/Gordon%20Fagan%20-%20Resume.docx%20(3).pdf
     - icon: mailbox
       text: Ghfagan44@gmail.com
       href: mailto:Ghfagan44@gmail.com
