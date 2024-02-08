@@ -20,8 +20,8 @@ about:
       text: Resumé
       href: https://GITHUB_USERNAME.github.io/resume-example.pdf
     - icon: mailbox
-      text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      text: Ghfagan44@gmail.com
+      href: mailto:Ghfagan44@gmail.com
 
 ---
 
